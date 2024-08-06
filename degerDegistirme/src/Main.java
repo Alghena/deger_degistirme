@@ -13,6 +13,7 @@ public class Main {
         System.out.println(" değerler değiştiriliyor***");
         System.out.println("sayi1= "+ sayi2);
         System.out.println("sayi2= "+ sayi1);
+        System.out.println("hello");
 
         }
 }
